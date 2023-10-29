@@ -1,0 +1,25 @@
+"schemes": [
+    {
+        "background": "#292727",
+        "black": "#4D4545",
+        "blue": "#D5DAE2",
+        "brightBlack": "#806666",
+        "brightBlue": "#A4BAE2",
+        "brightCyan": "#FFA9A9",
+        "brightGreen": "#97E38D",
+        "brightPurple": "#FF9575",
+        "brightRed": "#FF7070",
+        "brightWhite": "#FFFCE6",
+        "brightYellow": "#FFD87C",
+        "cursorColor": "#FFFFFF",
+        "cyan": "#F0C7C7",
+        "foreground": "#F9F3DC",
+        "green": "#CAE6BC",
+        "name": "Dark Ones",
+        "purple": "#E79B88",
+        "red": "#FF8585",
+        "selectionBackground": "#FFFFFF",
+        "white": "#F9F3DC",
+	"yellow": "#FBE2AC"
+    }
+]
